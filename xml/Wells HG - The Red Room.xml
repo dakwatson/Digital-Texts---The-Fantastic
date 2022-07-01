@@ -1,4 +1,5 @@
-﻿<header>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<header>
     <title>THE RED ROOM</title>
     <author>H. G. Wells</author>
     <publication-year></publication-year>
@@ -111,3 +112,5 @@
 <p>Then the man with the shade lifted his face sideways to see me and spoke.</p>
 <p>
     <said>That is it,</said> said he. <said>I knew that was it. A Power of Darkness. To put such a curse upon a home! It lurks there always. You can feel it even in the daytime, even of a bright summer's day, in the hangings, in the curtains, keeping behind you however you face about. In the dusk it creeps in the corridor and follows you, so that you dare not turn. It is even as you say. Fear itself is in that room. Black Fear.... And there it will be... so long as this house of sin endures.</said>
+</p>
+</body>
