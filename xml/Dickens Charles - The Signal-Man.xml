@@ -175,6 +175,7 @@
         <p>
             Intently watchful of me, he replied (but without sound),
             <said>Yes.</said>
+            </p>
             <p>
                 <said direct="true" who="#nar">My good fellow, what should I do there? However, be that as it may, I never was there, you may swear.</said>
             </p>
@@ -290,6 +291,7 @@
             <p>
                 <said>Heaven knows,</said>
                 said I.
+               </p>
                 <said>
                     I cried
                     <span>something</span>
@@ -297,6 +299,7 @@
                 </said>
                 <p>
                     <said direct="true" who="#sig">Not to that effect, sir. Those were the very words. I know them well.</said>
+                    </p>
                     <p>
                         <said>Admit those were the very words. I said them, no doubt, because I saw you below.</said>
                     </p>
@@ -521,6 +524,7 @@
                         <said direct="true" who="#sig">No. It leaned against the shaft of the light, with both hands before the face. Like this.</said>
                     </p>
                     <p>
+                        </p>
                         Once more I followed his action with my eyes. It was an action of mourning. I have seen such an attitude in stone figures on tombs.
                         <p>
                             <said>Did you go up to it?</said>
@@ -552,14 +556,13 @@
                         <p>Involuntarily I pushed my chair back, as I looked from the boards at which he pointed to himself.</p>
                         <p>
                             <said direct="true" who="#sig">True, sir. True. Precisely as it happened, so I tell it you.</said>
+                            </p>
                             <p>I could think of nothing to say, to any purpose, and my mouth was very dry. The wind and the wires took up the story with a long lamenting wail.</p>
                             <p>
                                 He resumed.
                                 <said direct="true" who="#sig">
                                     Now, sir, mark this, and judge how my mind is troubled.
-                                    </span>
-                                    The spectre
-                                    </span>
+                                    <span>The spectre</span>
                                     came back a week ago. Ever since,
                                     <span>it has been there</span>
                                     ,
@@ -716,6 +719,7 @@
                                     <span>What does the spectre mean</span>
                                     ?
                                 </said>
+                                </p>
                                 <p>
                                     <said direct="false" who="#nar">
                                         <span>I was not sure</span>
